@@ -1,0 +1,9 @@
+'77_cancer_proteomes_CPTAC_itraq':
+Includes protein expression values and metadata on 12553 genes from 80 breast cancer patients and 3 healthy individuals.
+
+'clinical_data_breast_cancer':
+Contains clinical data and various breast cancer classifications from 105 breast cancer patients.
+
+
+'PAM50_proteins':
+Contains the list of genes and proteins used by the PAM50 classification system. The column RefSeqProteinID contains the protein IDs that can be matched with the IDs in the main protein expression data set.
